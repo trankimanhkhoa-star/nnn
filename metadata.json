@@ -1,0 +1,6 @@
+{
+  "name": "Bé Yêu Tái Chế - Green Kids",
+  "description": "Trò chơi hoạt hình vui nhộn giáo dục trẻ em về tái chế: Xưởng biến rác thành quà tặng và Thử thách phân loại rác tính giờ có bảng xếp hạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
